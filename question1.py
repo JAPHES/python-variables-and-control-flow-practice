@@ -1,4 +1,6 @@
+# VARIABLE ASSIGNMENT & ARITHMETIC OPERATION
 # Assign values to int input
+
 
 a =int(input('Enter number'))
 b =int(input('Enter number'))
