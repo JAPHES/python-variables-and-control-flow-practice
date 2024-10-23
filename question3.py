@@ -1,5 +1,5 @@
 # GRADE CATEGORIZER
-y =int(input("Enter your GRADE"))
+y =int(input("Enter your Marks"))
 
 if y>= 90 <= 100:
     print("Grade is A")
